@@ -21,3 +21,7 @@ Excel (Data Analysis, MegaStat), Power BI
 https://app.powerbi.com/view?r=eyJrIjoiMGMyNGExZTYtY2JiZC00YzIyLTg0YmItN2VkYjA4YjRiYmM1IiwidCI6IjJkMzE5NGUzLTE2NTQtNDZiZC1iYWUyLWFkMzdiYTExYjBhZSIsImMiOjl9
 ## Dataset
 Source: Kaggle - Supply Chain Analysis Dataset
+
+## Files
+- `report.pdf`: full training report
+- `supply_chain_data.xlsx`: dataset
